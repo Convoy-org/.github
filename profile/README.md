@@ -1,0 +1,69 @@
+
+# 🛠️ Project Reasources:
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+```
+ • https://reactnative.dev/
+ • https://expo.dev/
+ • https://firebase.google.com/
+
+```
+# 🚀 Constants:
+
+![image](https://github.com/Moment-Mobile-App/.github/assets/88948653/5e16c4e8-91f8-4640-958d-41eeaf8887b6)
+```
+ • Please only use this colour pallet across the app for consitency 
+```
+
+# 🎯 Goals:
+
+```
+  • User Interface Base✓
+  • User Login And Registration✓
+  • User post 
+```
+# 📱 Contacts:
+
+```
+• Nathan Aruna | nathan.aruna@momntsapp.com | 514 638 7871
+• Aly Shariff | aly.shariff@momntsapp.com
+• Domenico Valentino | domenico.valentino@momntsapp.com | 514 977 7505
+• Xin Lei | xin.lei@momntsapp.com |
+
+```
+# 🗒 Additional Notes:
+```
+• Promotional website is done in Angular
+• Meetings held on discord
+
+```
+# 🎨 Gallery :
+
+<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/a7add5ad-1d1b-42f4-a065-83a1be1855c4" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/a7add5ad-1d1b-42f4-a065-83a1be1855c4)" width="200" height="400" />
+
+<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/19d6d079-78fb-40c9-bbb4-270d793460ef" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/19d6d079-78fb-40c9-bbb4-270d793460ef)" width="200" height="400" />
+
+
+<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/6c68ed8d-3b93-476b-a22d-dcf06eab9407" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/6c68ed8d-3b93-476b-a22d-dcf06eab9407)" width="200" height="400" />
+
+
+<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/3230a973-fc72-4457-8248-760dafb3ea22" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/3230a973-fc72-4457-8248-760dafb3ea22)" width="200" height="400" />
+
+<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/ee88d7fb-eb8b-4a3b-87b9-a74da7e15852" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/ee88d7fb-eb8b-4a3b-87b9-a74da7e15852)" width="200" height="400" />
+
+<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/1170105e-4943-49c8-895f-1c0f61413902" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/1170105e-4943-49c8-895f-1c0f61413902)" width="200" height="400" />
+
+![image](https://github.com/Moment-Mobile-App/.github/assets/88948653/9c3d868e-60a1-43c7-8045-8a27e7768663)
+
+
+
+
+
+
+
+
+
+
+
+
+
