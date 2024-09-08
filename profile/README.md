@@ -1,11 +1,9 @@
 
 # 🛠️ Project Reasources:
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+ ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ```
  • https://developer.apple.com/documentation/swift
- • https://swiftui.design/exampless
- • https://firebase.google.com/
 
 ```
 # 🚀 Constants:
